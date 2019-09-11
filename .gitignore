@@ -7,6 +7,8 @@
 /backend/yarn-debug.log*
 /backend/yarn-error.log*
 /backend/lerna-debug.log*
+/backend/src/database/sql/config/database.js
+/backend/src/database/mmongo/conf/mongodb.js
 
 /frontend/dist
 /frontend/node_modules
