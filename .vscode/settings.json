@@ -1,0 +1,6 @@
+{
+    "svn.ignoreMissingSvnWarning": true,
+    "atlascode.jira.workingSite": {
+        "baseUrlSuffix": "atlassian.net"
+    }
+}
